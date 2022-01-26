@@ -1,4 +1,4 @@
-module github.com/hashicorp/demo-consul-101/services/counting-service
+module github.com/tr0njavolta/counting_service/counting_service
 
 go 1.15
 

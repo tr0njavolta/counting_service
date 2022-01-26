@@ -1,4 +1,5 @@
-module github.com/hashicorp/demo-consul-101/services/dashboard-service
+module module github.com/tr0njavolta/counting_service/dashboard_service
+
 
 go 1.15
 
