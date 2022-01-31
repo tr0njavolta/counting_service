@@ -1,4 +1,4 @@
-module module github.com/tr0njavolta/counting_service/dashboard_service
+module github.com/tr0njavolta/counting_service/dashboard_service
 
 
 go 1.15
